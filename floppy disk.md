@@ -11,5 +11,4 @@ tags:
   - Floppy Disk
   - Disk
   - IBM
-  - 
 ---
