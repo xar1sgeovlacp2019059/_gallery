@@ -1,5 +1,5 @@
 ---
-author:xar1sgeovlacp2019059 
+author: xar1sgeovlacp2019059 
 title: Δισκέτα με φλασάκι
 year: 1971
 image_url: images/FloppyDiskComparetoFlashDisk-thumb.jpg
