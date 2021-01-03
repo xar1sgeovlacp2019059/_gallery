@@ -9,6 +9,7 @@ license_url: 'https://unsplash.com/license'
 license_text: https://unsplash.com/license
 categories:
   - Αποθήκες δεδομένων 
+  - output-device
 tags:
   - CD
   - DVD
