@@ -7,7 +7,8 @@ caption: 'Στην εικόνα αυτή φαίνεται ένα φλασάκι 
 license_url: 'https://unsplash.com/license'
 license_text: https://unsplash.com/license
 categories:
-  - Αποθήκες δεδομένων 
+  - Αποθήκες δεδομένων
+  - output-device
 tags:
   - CD
   - DVD
